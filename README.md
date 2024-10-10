@@ -1,16 +1,19 @@
-## Hi there 👋
+<div id="header" align="center">
 
-<!--
-**omniscientreadersviewpoint/omniscientreadersviewpoint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://komarev.com/ghpvc/?username=nineteendays&color=6f6a80&label=freak+count&abbreviated=true&base=20)
+
+<img src="https://files.catbox.moe/40x1in.png">
+
+<p align="center">
+<img src="https://files.catbox.moe/ivf7pj.png"> 
+
+
+<img src="https://files.catbox.moe/4ep139.png">
+
+<div id="header" align="center">
+
+
+[<img src="https://files.catbox.moe/e6y2l9.webp">](https://github.com/nineteendays)
+</p>
